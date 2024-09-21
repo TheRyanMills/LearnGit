@@ -1,3 +1,3 @@
 # LearnGit
 
-Morning Andrei!
+Good Morning Andrei!
