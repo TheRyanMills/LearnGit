@@ -20,3 +20,5 @@ git pull
 Very cool!
 
 Here are all the commands we learned.
+
+I learned a lot today
