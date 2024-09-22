@@ -17,4 +17,6 @@ git clone
 git push
 git pull
 
+Very cool!
+
 Here are all the commands we learned.
