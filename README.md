@@ -21,4 +21,6 @@ Very cool!
 
 Here are all the commands we learned.
 
-I learned a lot today
+Here's all the changes from my featre branch!
+
+I learned a lot today!
