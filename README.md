@@ -16,3 +16,5 @@ git merge
 git clone
 git push
 git pull
+
+Here are all the commands we learned.
