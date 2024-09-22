@@ -20,3 +20,5 @@ git pull
 Very cool!
 
 Here are all the commands we learned.
+
+Here's all the changes from my featre branch!
